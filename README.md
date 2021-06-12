@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oliveiraemerson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Emerson Oliveira
+- 👀 I'm interested in web, mobile and IoT development
+- 🌱 I’m currently learning Asp.NET Core MVC and EF Core
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
 <!---
 oliveiraemerson/oliveiraemerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,15 +10,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Emerson Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraemerson&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraemerson&layout=compact)](https://github.com/oliveiraemerson/github-readme-stats)
 
-
-<details>
+<!-- <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  This goin to be hidden.
   
-</details>
+  
+  
+</details> -->
 
 ### - Languages and Tools...
 
@@ -35,15 +37,15 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+<!--   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"> -->
+<!--   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px"> -->
 
 ---
 
 </p>
 
 <p align="center"> 
-  <i> Contact me! :incoming_envelope: </i>
+  <i> 📫 How to reach me </i>
 </p>
 
 <p align="center">
